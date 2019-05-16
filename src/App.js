@@ -1,15 +1,14 @@
 import React from "react";
-// import logo from './logo.svg';
 import "./App.css";
 
 import Home from "./pages/Home";
 import Rooms from "./pages/Rooms";
 import SingleRoom from "./pages/SingleRoom";
-import About from "./pages/About";
 import Error from "./pages/Error";
+
 import Navbar from "./components/Navbar";
 
-import { Route, Switch } from "react-router-dom";
+import { Switch, Route } from "react-router-dom";
 
 function App() {
   return (
@@ -17,10 +16,8 @@ function App() {
       <Navbar />
       <Switch>
         <Route exact path="/" component={Home} />
-        <Route exact path="/resort" component={Home} />
         <Route exact path="/rooms/" component={Rooms} />
         <Route exact path="/rooms/:slug" component={SingleRoom} />
-        <Route exact path="/about" component={About} />
         <Route component={Error} />
       </Switch>
     </>
