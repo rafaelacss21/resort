@@ -26,7 +26,7 @@ export default function Contact() {
         </div>
         <Title title="contact us" />
         <article className="contact-info">
-          <form>
+          <form className="filter-form">
             <label>name</label>
             <input type="text" />
             <label>email</label>

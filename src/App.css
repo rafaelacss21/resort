@@ -560,3 +560,6 @@ h6 {
   grid-template-columns: 1fr;
   margin: 2rem auto;
 }
+.about-info p {
+  margin-bottom: 1rem;
+}
