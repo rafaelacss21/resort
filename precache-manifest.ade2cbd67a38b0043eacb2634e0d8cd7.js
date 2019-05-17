@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "adeaa3d85dacfc885473fdf6160ef130",
+    "revision": "287d3e8ab3b52c4706e8b69575b5d4df",
     "url": "/resort/index.html"
   },
   {
-    "revision": "fbcebba6f11ac72ffcbe",
-    "url": "/resort/static/css/main.dc7feb71.chunk.css"
+    "revision": "fb09a6f7cde03f2d9835",
+    "url": "/resort/static/css/main.4ddfe136.chunk.css"
   },
   {
-    "revision": "f82837acefb68e4761bb",
-    "url": "/resort/static/js/2.c0626f23.chunk.js"
+    "revision": "71034a302ce60c07a91d",
+    "url": "/resort/static/js/2.e84a9bc3.chunk.js"
   },
   {
-    "revision": "fbcebba6f11ac72ffcbe",
-    "url": "/resort/static/js/main.f5a6344f.chunk.js"
+    "revision": "fb09a6f7cde03f2d9835",
+    "url": "/resort/static/js/main.dfa1838a.chunk.js"
   },
   {
     "revision": "d63e2827119c628277fa",
@@ -22,6 +22,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a3a58f2de6a13eefe9a5a0c2fdade57d",
     "url": "/resort/static/media/aboutBcg.a3a58f2d.jpg"
+  },
+  {
+    "revision": "51d4ee36b2592f1c70cb46ee304c3f04",
+    "url": "/resort/static/media/contactBcg.51d4ee36.jpg"
   },
   {
     "revision": "aebaec51b2f82a2993fda821ca04e228",
